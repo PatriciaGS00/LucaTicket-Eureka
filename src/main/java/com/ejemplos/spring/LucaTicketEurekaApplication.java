@@ -9,6 +9,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class LucaTicketEurekaApplication {
 
 	public static void main(String[] args) {
+		//eureka
 		SpringApplication.run(LucaTicketEurekaApplication.class, args);
 	}
 
